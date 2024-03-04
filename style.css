@@ -1,0 +1,6 @@
+#bangladesh{
+  width: 125px;
+  height: 75px;
+  background: radial-gradient(circle at 45% 50% , #FF0000 25px, rgba(0, 106, 78, 1) 27px);
+  box-shadow: 0px 0px 15px 2px #e5e5e5;
+}
